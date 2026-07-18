@@ -1,4 +1,4 @@
-# Cognitio+ Service Builder (PWA)
+# Cognitio+ App
 
 An interactive mental health and resilience service customization platform.
 
